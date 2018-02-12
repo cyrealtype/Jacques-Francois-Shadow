@@ -1,3 +1,5 @@
+#### Jacques Francois Shadow
+
 Jacques Francois Shadow is an incised variant of 
 [Jacques Francois font](cyrealtype/Jacques-Francois)
 
@@ -17,4 +19,5 @@ Jacques Francois Shadow is a Unicode typeface family that supports
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
 
-![JacquesFrancois Shadow Font](src/sample.png)
+![JacquesFrancois Shadow Font](documents/sample.png)
+![JacquesFrancois Shadow Font](documents/sample2.png)
